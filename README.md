@@ -30,13 +30,24 @@ allprojects {
 }
 ```
 
-Add the dependency
+Add the dependency for android
 
 ```groovy
 dependencies {
   implementation 'com.github.ujjawal71:SpeechRecognition:0.1.0'
 }
 ```
+
+Add the dependency for Java
+
+```groovy
+<dependency>
+	    <groupId>com.github.ujjawal71</groupId>
+	    <artifactId>SpeechRecognition</artifactId>
+	    <version>0.1.0</version>
+	</dependency>
+```
+
 
 
 Usage
