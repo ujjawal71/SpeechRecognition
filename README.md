@@ -41,7 +41,7 @@ dependencies {
 Add the dependency for Java
 
 ```groovy
-<dependency>
+        <dependency>
 	    <groupId>com.github.ujjawal71</groupId>
 	    <artifactId>SpeechRecognition</artifactId>
 	    <version>0.1.0</version>
