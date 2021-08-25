@@ -1,5 +1,4 @@
 # SpeechRecognitionDependencies
-SpeechRecognitionView
 ======================
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SpeechRecognitionView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3518)
