@@ -12,7 +12,7 @@
 Compatibility
 -------------
 
-This library is compatible from API 15 (Android 4.0.3).
+This library is compatible from API 22 (Android 0.1.0).
 
 
 Download
@@ -34,7 +34,7 @@ Add the dependency
 
 ```groovy
 dependencies {
-    implementation 'com.github.ujjawal71:SpeechRecognitionDependencies:0.1.0'
+  implementation 'com.github.ujjawal71:SpeechRecognition:0.1.0'
 }
 ```
 
@@ -47,7 +47,7 @@ Usage
 Simply add view to your layout:
 
 ``` xml
-<com.github.ujjawal.SpeechRecognition.Csecoder
+<com.github.ujjawal71.speechrecognition.Csecoder
 	android:id="@+id/recognition_view"
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
