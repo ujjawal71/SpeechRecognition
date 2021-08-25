@@ -129,10 +129,13 @@ csecoder.setBarMaxHeightsInDp(heights);
 
 Set custom circle radius/spacing between circles/idle animation amolitude size/rotation animation radius: 
 ``` java
-csecoder.setCircleRadiusInDp(2);
-csecoder.setSpacingInDp(2);
-csecoder.setIdleStateAmplitudeInDp(2);
-csecoder.setRotationRadiusInDp(10);
+        csecoder.setColors(colors);
+        csecoder.setBarMaxHeightsInDp(heights);
+        csecoder.setCircleRadiusInDp(2);
+        csecoder.setSpacingInDp(2);
+        csecoder.setIdleStateAmplitudeInDp(2);
+        csecoder.setRotationRadiusInDp(10);
+      
 ```
 Don't forget to add permission to your AndroidManifest.xml file
 ``` xml
