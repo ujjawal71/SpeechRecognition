@@ -30,7 +30,7 @@ allprojects {
 }
 ```
 
-Add the dependency for android
+Add the dependency for android gradle
 
 ```groovy
 dependencies {
@@ -39,7 +39,7 @@ dependencies {
 }
 ```
 
-Add the dependency for Java
+Add the dependency for Java maven
 
 ```groovy
         <dependency>
