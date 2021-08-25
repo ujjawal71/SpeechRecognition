@@ -34,7 +34,8 @@ Add the dependency for android
 
 ```groovy
 dependencies {
-  implementation 'com.github.ujjawal71:SpeechRecognition:0.1.0'
+
+     implementation 'com.github.ujjawal71:SpeechRecognition:0.1.0'
 }
 ```
 
