@@ -5,7 +5,6 @@
 
 [![Release](https://jitpack.io/v/ujjawal71/SpeechRecognitionDependencies.svg)](https://jitpack.io/#ujjawal71/SpeechRecognitionDependencies)
 
-"Google Now" style animation for [Speech Recognizer][1].
 
 
 
