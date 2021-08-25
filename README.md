@@ -1,7 +1,7 @@
 # SpeechRecognitionDependencies
 ======================
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SpeechRecognitionView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3518)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SpeechRecognitionDependencies-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3518)
 
 [![Release](https://jitpack.io/v/ujjawal71/SpeechRecognitionDependencies.svg)](https://jitpack.io/#ujjawal71/SpeechRecognitionDependencies)
 
@@ -47,7 +47,7 @@ Usage
 Simply add view to your layout:
 
 ``` xml
-<com.github.ujjawal.speechrecognition.Csecoder
+<com.github.ujjawal.SpeechRecognition.Csecoder
 	android:id="@+id/recognition_view"
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
